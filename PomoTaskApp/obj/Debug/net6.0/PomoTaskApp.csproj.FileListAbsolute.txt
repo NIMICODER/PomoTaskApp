@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\bin\Debug\net6.0\PomoTaskApp.exe
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\bin\Debug\net6.0\PomoTaskApp.deps.json
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\bin\Debug\net6.0\PomoTaskApp.runtimeconfig.json
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\bin\Debug\net6.0\PomoTaskApp.dll
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\bin\Debug\net6.0\PomoTaskApp.pdb
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.dll
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\refint\PomoTaskApp.dll
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.pdb
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\PomoTaskApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\PomoTaskApp\PomoTaskApp\obj\Debug\net6.0\ref\PomoTaskApp.dll
